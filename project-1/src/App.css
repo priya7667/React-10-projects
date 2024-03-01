@@ -19,6 +19,7 @@ button {
   height: 32px;
   color: white;
   font-weight: 500;
+  cursor:pointer;
 }
 .container {
   margin: 0 auto;

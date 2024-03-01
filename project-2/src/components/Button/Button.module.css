@@ -1,0 +1,35 @@
+svg{
+    font-size: 2rem;
+    color: white;
+}
+.primary_btn
+{
+    padding: 18px 10px;
+    background-color: black;
+    min-width: 100px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin:10px;
+    color:white;
+    justify-content: center;
+    cursor:pointer;
+
+}
+.outline_btn
+{
+    padding: 18px 10px;
+    border: 1 px solid black;
+    min-width: 100px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin:10px;
+    color:black;
+    justify-content: center;
+    width:100%;
+    cursor:pointer;
+    
+}
